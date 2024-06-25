@@ -25,8 +25,7 @@ This game shows about a romance at the beginning of the semester in Univercity.<
 
 <br>
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/-C%23-5030D0?style=flat&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/> <img src="https://img.shields.io/badge/-C%23-5030D0?style=flat&logo=C%23&logoColor=white">
 
 <br>
 
@@ -50,13 +49,25 @@ Surrounded by mere acquaintances, he attends an orientation...
 
 ![대화중](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/conversation.gif?raw=true)
 
+Every conversations offer subtitles style.
+
+Press **[Space Bar]** to print texts quickly.
+
 ### Courtship action
 
 ![방향키](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/play.gif?raw=true)
 
+Take a better sight at it and answer it well.
+
+Press the **[Arrow Keys]** and then submit by pressing **[Space Bar]** within the time limit.
+
 ### Chatting with her
 
 ![채팅중](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/chat.gif?raw=true)
+
+Take a after meeting talk with chat.
+
+Press the **[Arrow Keys (Up, Down)]** and then send the message by pressing **[Space Bar]**.
 
 <br>
 
