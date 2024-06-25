@@ -45,7 +45,7 @@ Surrounded by mere acquaintances, he attends an orientation...
 
 # 🎬 Ingame Play
 
-### Conversation
+### 💬 Conversation
 
 ![대화중](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/conversation.gif?raw=true)
 
@@ -55,7 +55,7 @@ Press **[Space Bar]** to print texts quickly.
 
 <br/>
 
-### Courtship action
+### 💘 Courtship action
 
 ![방향키](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/play.gif?raw=true)
 
@@ -65,7 +65,7 @@ Press the **[Arrow Keys]** and then submit by pressing **[Space Bar]** within th
 
 <br/>
 
-### Chatting with her
+### 📱 Chatting with her
 
 ![채팅중](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/chat.gif?raw=true)
 
