@@ -30,7 +30,7 @@ This game shows about a romance at the beginning of the semester in Univercity.<
 <br>
 
 # 🎮 Game Intro
-지옥같던 고3 생활을 지나 마침내 대학교에 입성하게 된 <span style="color:#00B0F0">당신!</span><br>
+지옥같던 고3 생활을 지나 마침내 대학교에 입학하게 된 <span style="color:#00B0F0">당신!</span><br>
 학창시절을 계속 아싸처럼 지내온 그는 대학생이 되면 무조건 친구도 많이 만들고 애인도 사귀겠다는 다짐을 하며 입학한다...<br/>
 After a hellish time preparing for the SAT, finally <span style="color:#00B0F0">you</span> have entered a university!<br/>
 He acted like a Nerd his whole school life but he decided to change. he resolved himself to make lots of friends and a super hot girlfriend...
