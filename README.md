@@ -53,6 +53,8 @@ Every conversations offer subtitles style.
 
 Press **[Space Bar]** to print texts quickly.
 
+<br/>
+
 ### Courtship action
 
 ![방향키](https://github.com/TeamCadence/Romantic-Timing/blob/image/image/play.gif?raw=true)
@@ -60,6 +62,8 @@ Press **[Space Bar]** to print texts quickly.
 Take a better sight at it and answer it well.
 
 Press the **[Arrow Keys]** and then submit by pressing **[Space Bar]** within the time limit.
+
+<br/>
 
 ### Chatting with her
 
