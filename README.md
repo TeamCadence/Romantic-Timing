@@ -9,7 +9,7 @@
 
 # 📑 Information
 
-This game shows about a romance at the beginning of the semester in Univercity.<br>
+This game shows about a romance at the beginning of the semester in University.<br>
 **How about pursuing it meeting some pretty girl?**
 
 <br>
